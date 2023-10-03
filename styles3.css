@@ -1,0 +1,134 @@
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+body{
+    background-color: black;
+}
+
+.top-page1{
+    background: url(../image/boutique.background.JPG) ;
+    background-size: cover;
+    height: 40vh;
+    padding: 25px;
+    margin: -8px;
+    
+
+
+}
+
+header.header1{
+    display: flex;
+    list-style:none;
+    margin-top: -15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+li a{
+    color: white;
+    
+    list-style: none;
+    font-size: 11px;
+    margin-left: 25px;
+    text-decoration: none;
+    
+}
+h1.gros-titre{
+    color: white;
+    font-size: 23px ;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-bottom: 85px;
+}
+a.scroll-down1{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+/* article */
+h2{
+    color: white;
+    font-size: 14px;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.icnw{
+    width: 50px;
+}
+.art{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline red;
+}
+.airpods-img{
+    width: 280px;
+}
+.airpods{
+    color: white;
+    display: flex;
+    background-color: blUe;
+    border-radius: 2rem;
+}
+.airpods1{
+    margin-top: 40px;
+}
+.airpodstext{
+    margin-left: 10px;
+    
+}
+.airpods3{
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    border: none;
+    padding: 1rem;
+    text-align: center;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 4px 2px;
+    border-radius: 2rem;
+
+}
+
+/*  airpods pro */
+
+.airpods-img{
+    width: 280px;
+}
+.airpods{
+    color: white;
+    display: flex;
+    background-color: blue;
+    border-radius: 2rem;
+}
+.airpodsmax1{
+    margin-top: 70px;
+}
+.airpodstext{
+    margin-left: 10px;
+    
+}
+.airpods3{
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    border: none;
+    padding: 1rem;
+    text-align: center;
+    display: inline-block;
+    font-size: 1rem;
+    margin: 4px 2px;
+    border-radius: 2rem;
+
+}
+
+
+

@@ -1,0 +1,146 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+    background-color: black;
+}
+
+.top-page1{
+    background: url(../image/tournois.background.JPG) ;
+    background-size: cover;
+    height: 38vh;
+    padding: 12px;
+    margin: -8px;
+
+
+}
+
+header.header1{
+    display: flex;
+    list-style:none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+li a{
+    color: white;
+    
+    list-style: none;
+    font-size: 11px;
+    margin-left: 25px;
+    text-decoration: none;
+    
+}
+h1.gros-titre{
+    color: white;
+    font-size: 30px ;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 78px;
+
+}
+a.scroll-down1{
+    color: white;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+/* text1 */
+
+.text{
+    color: white;
+    margin: 8px;
+}
+.text1{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: underline rgb(170, 60, 197);
+}
+.text2{
+    font-size: 13px;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/* decompte */
+
+
+.demoDate{
+    margin: 0;
+    padding-top: 20px;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
+/* tourois hebdomadaire */
+
+
+.hebdo{
+    color: white;
+    margin-left: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.consigne{
+    font-size: 18px;
+}
+.consigne1{
+    font-size: 13px
+}
+.CP{
+    font-size: 18px;
+
+}
+.CP1{
+    font-size: 13px;
+}
+.cp-img{
+    width: 460px;
+    
+}
+
+.gw{
+    font-size: 16px;
+}
+.gwicn{
+    width: 50px;
+    margin-left: 180px;
+}
+.liste{
+    font-size: 18px;
+}
+
+/* tournois mensuel */
+
+.mensuel{
+    color: white;
+    margin-left: 8px;
+
+}
+.tm{
+    font-size: 18px;
+    text-align: center;
+    text-decoration: underline mediumorchid;
+
+}
+.tm1{
+    font-size: 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cp2{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cp3{
+    font-size: 13px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
+
