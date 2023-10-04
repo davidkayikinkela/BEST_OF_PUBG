@@ -10,7 +10,7 @@ body{
 }
 
 .top-page1{
-    background: url(../image/classement.background1.JPG) ;
+    background: url(image/classement.background1.JPG) ;
     background-size: cover;
     height: 38vh;
     padding: 12px;
@@ -36,10 +36,10 @@ li a{
 }
 h1.gros-titre{
     color: white;
-    font-size: 24px ;
-    margin-top: 50px;
+    font-size: 18px ;
+    margin-top: 15px;
     margin-right: 95px;
-    margin-bottom: 78px;
+    margin-bottom: 50px;
     text-align: center;
     margin-left: 140px;
     height: 95px;
@@ -56,12 +56,11 @@ a.scroll-down1{
     display: flex;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-top: 10px;
-    margin-left: 40px;
+    margin-left: px;
 }
 /* classement */
 .classement{
     color: white;
-    margin-left: 8px;
 }
 .cl{
     font-size: 18px;

@@ -29,7 +29,7 @@ header.header img{
 
 
 section.top-page{
-    background: url('../image/bannier.JPG');
+    background: url('image/bannier.JPG');
     background-size: cover;
     height: 38vh;
     padding: 12px;
@@ -40,7 +40,7 @@ section.top-page{
 .gros-titre{
     color: white;
     font-size: 31px;
-    margin-top: 40px;
+    margin-top: 15px;
 }
 .gros-titre-2{
     color: white;
@@ -51,7 +51,7 @@ section.top-page{
     color: rgb(184, 181, 178);
     font-size: 13px;
     margin-top: -30px;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .scroll-down{
@@ -123,7 +123,7 @@ h2.text2{
 
 /* container */ 
 
-#carrousel{
+/* #carrousel{
     width: 480px;
     height: 300px;
     border: solid 4px #FFF;
@@ -145,8 +145,8 @@ h2.text2{
 .container{
     position: relative;
     
-}
-.wrapper{
+} */
+/* .wrapper{
     width: 410px;
     height: 300px;
     border: solid 4px #FFF;
@@ -155,27 +155,27 @@ h2.text2{
     overflow: hidden;
     
 
-}
+} */
 
 .ann{
     margin-top: 20px;
-    width: 455px;
+    width: 340px;
     border: solid 4px #FFF;
     box-shadow: 0 0 14px rgba(226, 169, 12, 0.9);
-    margin-left: 10px;
+    margin-left: 5px;
     overflow: hidden;
 }
 .annt{
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 20Px;
-    margin-top: -160px;
-    margin-left: 180px;
+    font-size: 18Px;
+    margin-top: -150px;
+    margin-left: 130px;
     margin-right: 10px;
 }
 .annw{
-    width: 50px;
-    margin-left: 250px;
+    width: 40px;
+    margin-left: 190px;
 }
 
 
@@ -257,7 +257,7 @@ h2.lienw{
 }
 .icnw{
     width: 50px;
-    margin-left: 190px;
+    margin-left: 150px;
     
 }
 /* lien reseaux */
@@ -274,7 +274,7 @@ h2.lienw{
 
 
 .reseaux{
-    margin-left: 60px;
+    margin-left: 15px;
 
     
 }

@@ -9,7 +9,7 @@ body{
 }
 
 .top-page1{
-    background: url(../image/tournois.background.JPG) ;
+    background: url(image/tournois.background.JPG) ;
     background-size: cover;
     height: 38vh;
     padding: 12px;
@@ -36,9 +36,9 @@ li a{
 h1.gros-titre{
     color: white;
     font-size: 30px ;
-    margin-top: 50px;
+    margin-top: 15px;
     margin-right: 100px;
-    margin-bottom: 78px;
+    margin-bottom: 50px;
 
 }
 a.scroll-down1{
@@ -51,7 +51,7 @@ a.scroll-down1{
 
 .text{
     color: white;
-    margin: 8px;
+    margin: px;
 }
 .text1{
     font-size: 18px;
@@ -81,7 +81,7 @@ a.scroll-down1{
 
 .hebdo{
     color: white;
-    margin-left: 8px;
+    margin-left: px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 .consigne{
@@ -98,7 +98,7 @@ a.scroll-down1{
     font-size: 13px;
 }
 .cp-img{
-    width: 460px;
+    width: 330px;
     
 }
 
@@ -107,7 +107,7 @@ a.scroll-down1{
 }
 .gwicn{
     width: 50px;
-    margin-left: 180px;
+    margin-left: 140px;
 }
 .liste{
     font-size: 18px;
@@ -117,7 +117,7 @@ a.scroll-down1{
 
 .mensuel{
     color: white;
-    margin-left: 8px;
+    margin-left: px;
 
 }
 .tm{
